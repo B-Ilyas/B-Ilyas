@@ -1,71 +1,185 @@
-## 👋 À propos de moi
+# 👋 À propos de moi
 
-🎓 Étudiant en **Master Informatique à Sorbonne Université** et entrepreneur, je développe actuellement une activité freelance autour de la **création de sites web pour TPE, commerces locaux et indépendants**.
+🎓 Étudiant en **Master Informatique à Sorbonne Université** et entrepreneur, je développe actuellement une activité freelance spécialisée dans la **création de sites web pour petites entreprises, commerces locaux et indépendants**.
 
-💼 Mon objectif est simple : aider de petites entreprises à avoir une présence en ligne **professionnelle, claire et utile commercialement**, sans complexité technique inutile.
+💼 Mon objectif est de proposer des solutions simples, professionnelles et directement utiles commercialement : améliorer la présence en ligne, présenter clairement les services d'une entreprise, faciliter la prise de contact et mettre en place une infrastructure technique fiable.
 
-🧠 Ma formation en informatique me donne également de solides bases en **développement, systèmes, réseaux, cloud et automatisation**, que j'utilise pour construire des solutions fiables et faciles à maintenir.
+🧠 Ma formation en informatique me donne également de solides bases en **programmation, systèmes, réseaux, cloud, automatisation et DevOps**. Cela me permet d'aborder un projet web au-delà de son apparence visuelle, avec une attention particulière portée au déploiement, aux performances, à la fiabilité et à la maintenabilité.
 
-### 🚀 Ce sur quoi je travaille actuellement
+🚀 Je construis actuellement plusieurs projets pilotes afin d'améliorer mon processus de création, de livraison et d'automatisation avant de travailler sur des cas clients réels.
 
-- 🌐 Création et déploiement de sites web pour petites entreprises
-- 📈 Amélioration de leur présence en ligne et de la génération de contacts
-- ⚙️ Automatisation de tâches techniques et business
-- 🤖 Utilisation de l'IA pour accélérer le développement, la recherche et les workflows
-- 🧪 Construction et validation de mon activité freelance
+## 💼 Activité actuelle
 
-### 🛠️ Technologies & outils
+Je développe une offre de création de sites web destinée principalement aux :
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Restaurants et commerces locaux
+- Artisans
+- TPE / PME
+- Professionnels indépendants
+- Entreprises ayant besoin d'une présence en ligne plus professionnelle
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+Mon approche consiste à construire des sites :
 
-### 💡 Compétences
+- ⚡ Rapides
+- 📱 Responsive
+- 🎯 Orientés conversion
+- 🔍 Optimisés pour la visibilité locale
+- 🛠️ Faciles à maintenir
+- ☁️ Correctement déployés et sécurisés
 
-`Web Development` · `Linux` · `Networking` · `Docker` · `Cloud Fundamentals` · `Python` · `Bash` · `Git` · `Monitoring` · `Automation` · `AI-assisted workflows`
+## 💻 Langages de programmation
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 🌐 Web & Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## ⚙️ Backend & Automatisation
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+## ☁️ Cloud & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+## 🔧 DevOps & Monitoring
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 📊 Web & Business Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+
+## 🤖 IA & Productivité
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 📚 Actuellement en développement
+
+Je continue notamment à approfondir :
+
+`Next.js` · `Tailwind CSS` · `Vercel` · `Cloudflare` · `n8n` · `Web Analytics` · `SEO local` · `Automatisation de workflows` · `CI/CD`
 
 ---
 
-## 🇬🇧 About me
+# 👋 About Me
 
 🎓 I'm a **Computer Science Master's student at Sorbonne University** and an entrepreneur currently building a freelance business focused on **website creation for small businesses, local companies and independent professionals**.
 
-💼 My goal is straightforward: help small businesses build a **professional, clear and commercially useful online presence** without unnecessary technical complexity.
+💼 My goal is to provide simple, professional and commercially useful digital solutions: improving online presence, presenting services clearly, generating more enquiries and building a reliable technical foundation behind each website.
 
-🧠 My computer science background also gives me a solid foundation in **development, systems, networking, cloud infrastructure and automation**, allowing me to approach projects from both a technical and business perspective.
+🧠 My computer science background gives me a solid foundation in **programming, systems, networking, cloud infrastructure, automation and DevOps**. This allows me to approach web projects beyond visual design, with particular attention to deployment, performance, reliability and maintainability.
 
-### 🚀 What I'm currently working on
+🚀 I'm currently building several pilot projects to improve my development, delivery and automation workflows before applying them to real client projects.
 
-- 🌐 Building and deploying websites for small businesses
-- 📈 Improving online presence and customer acquisition
-- ⚙️ Automating technical and business workflows
-- 🤖 Using AI to accelerate development, research and operations
-- 🧪 Building and validating my freelance business
+## 💼 Current Business
 
-### 🛠️ Technologies & tools
+I'm currently developing a website creation offer primarily for:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Restaurants and local businesses
+- Tradespeople
+- Small and medium-sized businesses
+- Independent professionals
+- Companies that need a stronger professional online presence
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+My approach is to build websites that are:
 
-### 💡 Skills
+- ⚡ Fast
+- 📱 Responsive
+- 🎯 Conversion-oriented
+- 🔍 Optimized for local visibility
+- 🛠️ Easy to maintain
+- ☁️ Properly deployed and secured
 
-`Web Development` · `Linux` · `Networking` · `Docker` · `Cloud Fundamentals` · `Python` · `Bash` · `Git` · `Monitoring` · `Automation` · `AI-assisted workflows`
+## 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 🌐 Web & Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## ⚙️ Backend & Automation
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+## ☁️ Cloud & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+## 🔧 DevOps & Monitoring
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 📊 Web & Business Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+
+## 🤖 AI & Productivity
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 📚 Currently Exploring
+
+I'm currently expanding my practical experience with:
+
+`Next.js` · `Tailwind CSS` · `Vercel` · `Cloudflare` · `n8n` · `Web Analytics` · `Local SEO` · `Workflow Automation` · `CI/CD`
